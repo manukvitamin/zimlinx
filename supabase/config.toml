@@ -1,0 +1,4 @@
+project_id = "ftpywqwlxtrwncuwcokb"
+
+[functions.zimlinx-ai]
+verify_jwt = true
